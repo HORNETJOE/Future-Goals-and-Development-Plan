@@ -4,8 +4,8 @@ The future goals and development plan is my plan for the future. This goals and 
 
 | year  | Goal | Skills to develop  | Milestone |
 | ------------- | ------------- | ------------- | ------------- | 
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 1  | Content Cell  | Content Cell  | Content Cell  |
+| 2  | Content Cell  | Content Cell  | Content Cell  |
+| 3  | Content Cell  | Content Cell  | Content Cell  |
+| 5  | Content Cell  | Content Cell  | Content Cell  |
+| 10  | Content Cell  | Content Cell  | Content Cell  |
